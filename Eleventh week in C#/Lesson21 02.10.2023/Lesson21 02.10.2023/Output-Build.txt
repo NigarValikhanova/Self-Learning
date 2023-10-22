@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Lesson21 02.10.2023, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Lesson21 02.10.2023 -> C:\Users\asus\source\repos\Lesson21 02.10.2023\Lesson21 02.10.2023\bin\Debug\net7.0\Lesson21 02.10.2023.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:29 AM and took 00.590 seconds ==========
