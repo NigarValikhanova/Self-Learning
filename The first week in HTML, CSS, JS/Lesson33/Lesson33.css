@@ -1,0 +1,51 @@
+h1{
+    color: red;
+}
+.post1 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+.post2 {
+    background-color: aqua;
+    text-align: center;
+}
+
+.post3 {
+    background-color:chartreuse;
+    text-align: center;
+}
+.post2 h1{
+    color: beige;
+}
+.post{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    background-color: pink;
+    color: purple;
+    ::selection{
+        background-color: aqua;
+    }
+    /* border-width: 1px ;
+    border-style: double;
+    border-color: black*/
+    border: 1px solid black;
+    border-radius: 15px;
+    /*margin-right: 4rem;
+    margin-left: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;*/
+    margin: 3rem 4rem 2rem 1rem; /*top, right, bottom, left*/
+    padding: 3rem;
+}
+.post h2{
+    color: rgb(156,141,88);
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem 0rem;
+    border: 2px solid darkblue;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+}
