@@ -1,0 +1,83 @@
+.bgImg {
+  background-image: url("https://www.azal.az/_next/static/media/home_2.6a42833a.jpg");
+  height: 80vh;
+  background-position: bottom;
+}
+
+.posts1 .container1 {
+  width: 80%;
+  margin: auto;
+}
+.posts1 .container1 h1 {
+  padding-left: 1.5rem;
+}
+.posts1 .container1 .d-flex1 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.posts1 .container1 .d-flex1 .box {
+  width: 30%;
+  box-shadow: 0px 0px 15px gray;
+  margin: 1rem 0rem;
+  border-radius: 10px;
+}
+.posts1 .container1 .d-flex1 .box img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+.posts1 .container1 .d-flex1 .box .txt {
+  padding: 1rem;
+}
+.posts1 .container1 .d-flex1 .box .txt p {
+  padding-bottom: 0.5rem;
+  color: lightgray;
+}
+.posts1 .container1 .d-flex1 .box .txt2 {
+  padding: 1rem;
+}
+.posts1 .container1 .d-flex1 .box .txt2 p {
+  padding-bottom: 4rem;
+  color: lightgray;
+}
+
+.posts2 .container2 {
+  width: 80%;
+  margin: auto;
+}
+.posts2 .container2 h1 {
+  padding-left: 1.5rem;
+}
+.posts2 .container2 .d-flex2 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.posts2 .container2 .d-flex2 .box2 {
+  width: 22.5%;
+  margin: 1rem 0rem;
+  border-radius: 10px;
+}
+.posts2 .container2 .d-flex2 .box2 img {
+  width: 100%;
+  border-radius: 10px;
+}
+.posts2 .container2 .d-flex2 .box2 h3 {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.posts2 .container2 .d-flex2 .box2 p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  color: gray;
+}
+.posts2 .container2 .d-flex2 .box2 h4 {
+  color: #40b7de;
+}
+/*# sourceMappingURL=Lesson34.css.map */
