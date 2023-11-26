@@ -1,0 +1,58 @@
+.posts1 .container1 {
+  width: 80%;
+  margin: auto;
+}
+.posts1 .container1 h1 {
+  padding-left: 1.5rem;
+}
+.posts1 .container1 .d-flex1 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.posts1 .container1 .d-flex1 .box {
+  width: 30%;
+  box-shadow: 0px 0px 15px gray;
+  margin: 1rem 0rem;
+  border-radius: 10px;
+}
+.posts1 .container1 .d-flex1 .box img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+.posts1 .container1 .d-flex1 .box .txt {
+  padding: 1rem;
+}
+.posts1 .container1 .d-flex1 .box .txt h3 {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid blue;
+  background-color: green;
+}
+.posts1 .container1 .d-flex1 .box .txt p {
+  padding-bottom: 0.5rem;
+  color: darkblue;
+  font-size: 20px;
+  font-weight: lighter;
+  border: 1px dotted orangered;
+  background-color: yellow;
+}
+.posts1 .container1 .d-flex1 .box .txt2 {
+  padding: 1rem;
+}
+.posts1 .container1 .d-flex1 .box .txt2 h3 {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid blue;
+  background-color: green;
+}
+.posts1 .container1 .d-flex1 .box .txt2 p {
+  padding-bottom: 4rem;
+  color: darkblue;
+  font-size: 20px;
+  font-weight: lighter;
+  border: 1px dotted orangered;
+  background-color: yellow;
+}/*# sourceMappingURL=test34.css.map */

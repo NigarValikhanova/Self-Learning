@@ -1,0 +1,69 @@
+@mixin important-text {
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+    border: 1px solid blue;
+}
+@mixin background{
+    color:darkblue;
+    font-size: 20px;
+    font-weight: lighter;
+    border: 1px dotted orangered;
+    background-color: yellow;
+}
+.posts1 {
+    .container1 {
+        width: 80%;
+        margin: auto;
+
+        h1 {
+            padding-left: 1.5rem;
+        }
+
+        .d-flex1 {
+            display: flex;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+
+            .box {
+                width: 30%;
+                box-shadow: 0px 0px 15px gray;
+                margin: 1rem 0rem;
+                border-radius: 10px;
+
+                img {
+                    width: 100%;
+                    border-radius: 10px 10px 0 0;
+                }
+
+                .txt {
+                    padding: 1rem;
+
+                    h3 {
+                        @include important-text;
+                        background-color: green;
+                    }
+
+                    p {
+                        padding-bottom: 0.5rem;
+                        @include background;
+                    }
+                }
+
+                .txt2 {
+                    padding: 1rem;
+
+                    h3 {
+                        @include important-text;
+                        background-color: green;
+                    }
+
+                    p {
+                        padding-bottom: 4rem;
+                        @include background;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -4,6 +4,10 @@
   background-position: bottom;
 }
 
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
 .posts1 .container1 {
   width: 80%;
   margin: auto;
@@ -79,5 +83,4 @@
 }
 .posts2 .container2 .d-flex2 .box2 h4 {
   color: #40b7de;
-}
-/*# sourceMappingURL=Lesson34.css.map */
+}/*# sourceMappingURL=Lesson34.css.map */
