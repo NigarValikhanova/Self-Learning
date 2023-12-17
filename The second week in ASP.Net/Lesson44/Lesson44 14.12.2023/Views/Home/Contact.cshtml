@@ -1,0 +1,66 @@
+﻿@model List<Product>
+
+<section>
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img height="300" src="~/images/products/@item.ImageUrl" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Name</h5>
+                            <h6 class="card-title">@item.Category.CategoryName</h6>
+                            <p class="text-color-purple">@item.Price</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+  <!-- contact section -->
+
+<section class="contact_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Contact Us
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <form action="">
+                    <div>
+                        <input type="text" placeholder="Name" />
+                    </div>
+                    <div>
+                        <input type="text" placeholder="Phone Number" />
+                    </div>
+                    <div>
+                        <input type="email" placeholder="Email" />
+                    </div>
+                    <div>
+                        <input type="text" class="message-box" placeholder="Message" />
+                    </div>
+                    <div class="d-flex ">
+                        <button>
+                            SEND
+                        </button>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <div class="map_container">
+                    <div class="map">
+                        <div id="googleMap" style="width:100%;height:100%;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- end contact section -->
