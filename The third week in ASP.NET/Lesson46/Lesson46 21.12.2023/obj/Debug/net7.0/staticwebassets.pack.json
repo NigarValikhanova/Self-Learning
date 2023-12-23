@@ -1,0 +1,665 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Lesson40 04.12.2023.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lesson40 04.12.2023.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\cs-skin-elastic.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\Admin\\images\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.psd"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\scss\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\Admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\css\\error.css",
+      "PackagePath": "staticwebassets\\css\\error.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\aspcore.jpg",
+      "PackagePath": "staticwebassets\\images\\aspcore.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\client-1.jpg",
+      "PackagePath": "staticwebassets\\images\\client-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\client-2.jpg",
+      "PackagePath": "staticwebassets\\images\\client-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\construction.svg",
+      "PackagePath": "staticwebassets\\images\\construction.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\csharp.jpg",
+      "PackagePath": "staticwebassets\\images\\csharp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\css.jpg",
+      "PackagePath": "staticwebassets\\images\\css.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\html.jpg",
+      "PackagePath": "staticwebassets\\images\\html.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\javascript.jpg",
+      "PackagePath": "staticwebassets\\images\\javascript.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\products\\Iphone13ProMax.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\Iphone13ProMax.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\products\\Iphone14.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\Iphone14.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\products\\Iphone14ProMax.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\Iphone14ProMax.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\products\\c05ed384-9dce-4439-a318-97c97ccdd558stiletto.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c05ed384-9dce-4439-a318-97c97ccdd558stiletto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\products\\menBoots.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\menBoots.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\products\\womenBoots.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\womenBoots.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\professional-img.png",
+      "PackagePath": "staticwebassets\\images\\professional-img.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\s1.png",
+      "PackagePath": "staticwebassets\\images\\s1.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\s2.png",
+      "PackagePath": "staticwebassets\\images\\s2.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\s3.png",
+      "PackagePath": "staticwebassets\\images\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\sql.jpg",
+      "PackagePath": "staticwebassets\\images\\sql.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\images\\tools.svg",
+      "PackagePath": "staticwebassets\\images\\tools.svg"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asus\\source\\repos\\Lesson40 04.12.2023\\Lesson40 04.12.2023\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Lesson40 04.12.2023.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Lesson40 04.12.2023.props",
+      "PackagePath": "build\\Lesson40 04.12.2023.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Lesson40 04.12.2023.props",
+      "PackagePath": "buildMultiTargeting\\Lesson40 04.12.2023.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Lesson40 04.12.2023.props",
+      "PackagePath": "buildTransitive\\Lesson40 04.12.2023.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
