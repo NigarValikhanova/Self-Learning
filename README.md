@@ -1,5 +1,6 @@
 I Love Elgun SO DAMN MUCH
 I dont want to delete this code
+But I have to
 # My-Work
 
 <h4> 24.10.2023 </h4>
